@@ -7,7 +7,7 @@ In this README, you will find information on how to get started with the Smart S
 
 Project Link - https://ambitious-sand-0a2870810.3.azurestaticapps.net/
 
-Project Demo Video Link - 
+Project Demo Video Link - https://youtu.be/HgCHQePeCjQ
 
 # Microsoft Azure Services Used(response links)
 
