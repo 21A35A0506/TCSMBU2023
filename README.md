@@ -5,7 +5,7 @@ Welcome to the Smart School Learning Management System (LMS) repository on GitHu
 
 In this README, you will find information on how to get started with the Smart School LMS.
 
-Project Link - https://gentle-desert-0676b6a10.3.azurestaticapps.net
+Project Link - https://ambitious-sand-0a2870810.3.azurestaticapps.net/
 
 Project Demo Video Link - 
 
