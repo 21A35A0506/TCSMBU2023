@@ -1,0 +1,107 @@
+
+body,ul, li {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: medium;
+}
+.here-logo
+{
+    width: 45px;
+    height: 40px;
+    border-radius: 100%;
+position: relative;
+    top: 10px;
+    left: 160px;
+}
+.profile-logo {
+    width: 45px;
+    height: 40px;
+    border-radius: 100%;
+    position: absolute;
+    top: 10px;
+    left: 160px;
+}
+
+h1,p,h2,h4{
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+h3{
+    margin: 0;
+    padding: 0;
+    color:violet;
+}
+
+html, body {
+    background-image: url('bgpic1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+
+
+header {
+    background-color: black;
+    color: white;
+    padding: 1rem;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-links li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.hero {
+    text-align: center;
+    padding: 200px 0;
+    color: red;
+    margin-top: auto;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+
+.about-content, .programs-content, .contact-form {
+    padding: 50px;
+}
+
+.program {
+    margin-bottom: 20px;
+}
+
+
+footer {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
