@@ -7,7 +7,7 @@ In this README, you will find information on how to get started with the Smart S
 
 Project Link - https://gentle-desert-0676b6a10.3.azurestaticapps.net
 
-Project Demo Video Link - https://youtu.be/uAOCMQnNf5k
+Project Demo Video Link - 
 
 # Microsoft Azure Services Used(response links)
 
