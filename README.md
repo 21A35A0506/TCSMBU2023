@@ -13,7 +13,8 @@ Project Demo Video Link - https://youtu.be/HgCHQePeCjQ
 
 Healthbot- https://webchat.botframework.com/embed/animalbot-i7pan4h?s=r0Xysd52ymw.NXIBPgQ760lwtN3f6bA4GesLSXKZowettPaOmtocD7U
 
-Static Web Apps- https://gentle-desert-0676b6a10.3.azurestaticapps.net
+Static Web Apps- https://ambitious-sand-0a2870810.3.azurestaticapps.net/
+
 # What makes this site special
 
 Includes more graphics and new visuals.
