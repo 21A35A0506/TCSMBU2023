@@ -52,11 +52,11 @@ CSS
 JAVASCRIPT
 
 
-# Collaborators added
+# Collaborators added(Team Mates)-Combinedly developed project
 
-B Dintu Deekshith (@20A31A05G0)
+B Dintu Deekshith (@[20A31A05G0](https://github.com/20A31A05G0))
 
-V Sai Teja (@20A31A05J3)
+V Sai Teja (@[20A31A05J3](https://github.com/20A31A05J3))
 
 # ScreenShots
 
