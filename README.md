@@ -51,6 +51,13 @@ CSS
 
 JAVASCRIPT
 
+
+# Collaborators added
+
+B Dintu Deekshith (@20A31A05G0)
+
+V Sai Teja (@20A31A05J3)
+
 # ScreenShots
 
 HOME PAGE
